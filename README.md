@@ -1,3 +1,5 @@
+(2026.06.30) AI부트캠프 1주차 비정형데이터분석
+
 \# Alzheimer MRI Classification
 
 
